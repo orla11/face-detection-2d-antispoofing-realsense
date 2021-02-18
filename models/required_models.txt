@@ -1,0 +1,8 @@
+For the following models:
+    - res10_300x300_ssd_iter_140000.caffemodel
+    - deploy.prototxt
+
+Refer to: https://github.com/gopinath-balu/computer_vision/tree/master/CAFFE_DNN
+
+For the model: shape_predictor_68_face_landmarks.dat
+Refer to: https://github.com/davisking/dlib-models
